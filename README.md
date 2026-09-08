@@ -1,4 +1,5 @@
-## Hi there 👋
+## <img width="500" height="468" alt="b7a0c2cdfd56dd5c93942e8fa0f7fc34" src="https://github.com/user-attachments/assets/e64f8171-5445-4462-879c-60df3f19fda8" />
+💫 About Me
 
 <!--
 **keyniev/keyniev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
