@@ -5,25 +5,19 @@
 ### 💫 About Me
  I'm Key -- a Computer Science graduate focused on mastering full-stack development. 
 
- I enjoy actively teaching myself new frameworks and programming languages! 
+ I enjoy actively teaching myself new frameworks and programming languages! If an idea comes to mind, chances are I'll design and build it.
 
  Currently, I am teaching myself Python and ProstgreSQL, as well as actively studying for the AWS Certified Cloud Practitioner exam.
 
- Fun fact! I'm a huge gamer (I love JRPGs!) with very large interest in game development through Unity and Godot.
+ <b>Fun fact!</b> I'm a huge gamer (I love JRPGs!) with very large interest in game development through Unity and Godot.
  
-
 <br clear="left"/>
-<!--
-**keyniev/keyniev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tech Stack
+![React](https://shields.io)
+![Node.js](https://shields.io)
+![TypeScript](https://shields.io)
+
+</div>
